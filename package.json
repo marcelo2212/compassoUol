@@ -1,0 +1,17 @@
+{
+  "name": "uol",
+  "version": "1.0.0",
+  "description": "Teste de codigo compasso uol",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/server.js"
+  },
+  "author": "marcelo goncalves",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.2"
+  }
+}
