@@ -17,7 +17,7 @@ Consultar cidade pelo estado
 
 Cadastrar cliente
   - End-point: localhost:3000/cliente
-  -Exemplo:
+  - Exemplo:
         {
           "nome":"joão silva",
           "sexo":"M",
